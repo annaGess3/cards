@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  height: 100%;
+  background-color: whitesmoke;
+}
+.modal_button{
+  padding: 25px;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
